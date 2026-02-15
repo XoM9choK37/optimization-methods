@@ -1,0 +1,3 @@
+[submodule "practice/OptimizationLabsVisualizer"]
+	path = practice/OptimizationLabsVisualizer
+	url = https://github.com/OptimizationLabs/OptimizationLabsVisualizer.git
