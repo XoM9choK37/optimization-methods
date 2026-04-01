@@ -18,4 +18,4 @@
 выполнение всех 8 лабораторных работ до зачётной недели.
 
 ### Conda environment \/ \/ \/ 
-conda create --name optimization-methods python=3.12 && pip install -r requirements.txt
+conda create --name optimization-methods python=3.12 && conda activate optimization-methods && pip install -r requirements.txt
